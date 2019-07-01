@@ -1,2 +1,2 @@
-# admin
+# Galakor.pl
 galakor.pl
