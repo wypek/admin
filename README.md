@@ -1,0 +1,2 @@
+# admin
+galakor.pl
